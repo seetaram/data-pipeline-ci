@@ -1,0 +1,6 @@
+[
+  {"id": 1, "name": "alice smith", "status": "active"},
+  {"id": 2, "name": "bob jones", "status": "inactive"},
+  {"id": 3, "name": "carol white", "status": "active"},
+  {"id": 4, "name": "dave brown", "status": "inactive"}
+]
